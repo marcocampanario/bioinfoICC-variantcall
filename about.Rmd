@@ -1,5 +1,51 @@
 ---
-title: "About This Website"
+title: "Sobre os autores"
+output: 
+  rmdformats::readthedown
 ---
 
-More about this website.
+&nbsp;
+&nbsp;
+
+|Créditos|Nomes|
+|-------|-----|
+|**Conteúdo pedagógico**||
+|Instrutores|[Marco Campanário] e [Bruno Janke]|
+|Monitores| [Joyce de Souza], [Hector Furini], [Giovanna Prezia], [Tuany Rodrigues], [Helena Spindula]|
+|Supervisores| [Helena Spindula], [Helisson Faoro], [Fabio Passetti]|
+|**Produção**||
+|Editores de conteúdo| [Marco Campanário] e [Bruno Janke]|
+|Revisores de conteúdo| [Fabio Passetti]|
+|**Suporte Técnico**||
+|Programadores| [Marco Campanário]|
+|Engenheiros de modelo|[Candace Savonen], [Carrie Wright], [Ava Hoffman]|
+|Designers técnicos|[Carrie Wright], [Ava Hoffman], [Candace Savonen]|
+|**Apoio financeiro**||
+|Agentes financiadores| CAPES|
+
+&nbsp;
+
+
+<!-- Author information -->
+
+[Marco Campanário]: https://marcocampanario.github.io/
+[Bruno Janke]: http://lattes.cnpq.br/4253753934855465
+[John Muschelli]: https://johnmuschelli.com/
+[Candace Savonen]: https://www.cansavvy.com/
+[Carrie Wright]: https://carriewright11.github.io/
+[Ava Hoffman]: https://www.avahoffman.com/
+[Howard Baek]: https://www.linkedin.com/in/howard-baik/
+[Kate Isaac]: https://kweav.github.io/
+
+<!-- Links -->
+
+[ottrpal]: https://github.com/jhudsl/ottrpal
+
+<!-- Fill out this table using these instructions: https://www.ottrproject.org/more_features.html#giving-credits-to-contributors
+
+For JHU courses, You will need to add Ira as a credit:
+
+|Content Publisher|[Ira Gooding]|
+...
+[Ira Gooding]: https://publichealth.jhu.edu/faculty/4130/ira-gooding
+-->
